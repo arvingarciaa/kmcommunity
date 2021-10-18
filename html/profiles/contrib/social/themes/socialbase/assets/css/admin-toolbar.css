@@ -1,0 +1,35 @@
+.toolbar-vertical #block-filter:target {
+  transform: translateY(39px) translateX(0);
+}
+
+.toolbar-vertical .off-canvas-right {
+  transform: translateY(39px) translateX(280px);
+}
+
+.toolbar-vertical .off-canvas-right.is-open {
+  transform: translateY(39px) translateX(0);
+}
+
+.toolbar-vertical .navbar-default,
+.toolbar-fixed .navbar-default {
+  position: relative;
+}
+
+.toolbar-vertical .toolbar .toolbar-bar,
+.toolbar-fixed .toolbar .toolbar-bar {
+  z-index: 1080;
+}
+
+.toolbar-fixed .main-container,
+.toolbar-vertical .main-container {
+  padding-top: 0;
+}
+
+@media (min-width: 900px) {
+  .toolbar-vertical .off-canvas-right {
+    transform: none;
+  }
+  .toolbar-vertical .off-canvas-right.is-open {
+    transform: none;
+  }
+}

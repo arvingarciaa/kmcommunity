@@ -1,0 +1,26 @@
+.hero-canvas {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.paragraph--hero .cover-wrap {
+    position:relative;
+    height:700px;
+}
+
+.cover-small{
+  text-align:center;
+}
+
+.page-title{
+  text-align:center !important;
+}
+
+ .page-subtitle{
+   text-align:center;
+ }
+ 
+ .hero-footer{
+   justify-content:center;
+ }

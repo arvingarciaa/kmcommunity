@@ -1,0 +1,12 @@
+.introduction{
+      height: 52px;
+    background-color: #2478af;
+    position: fixed;
+    top: 79px;
+    width: 110%;
+    z-index: 10;
+}
+
+.introduction>.card__body>.card__text>p{
+  display:none;
+}

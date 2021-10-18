@@ -1,0 +1,14 @@
+.navbar.navbar-default.navbar-fixed-top{
+  position:relative;
+}
+
+.dropdown.profile.not-logged-in{
+  margin-left: auto;
+  padding-right: 1rem;
+  color:rgba(255,255,255,0.75);
+  padding-top: 4px
+}
+
+.main-container{
+  padding-top:1rem;
+}

@@ -1,0 +1,59 @@
+LIVESTOCK
+Carabao
+Duck
+Feed Resources
+Goat
+Poultry
+Swine
+
+CROPS
+Abaca
+Banana
+Coconut
+Coffee
+Durian
+Jackfruit
+Legumes
+Mango
+Papaya
+Pineapple
+Pummelo
+Rice
+Root Crops
+Rubber
+Sugarcane
+Vegetables
+
+FORESTRY AND ENVIRONMENT
+Bamboo
+Cacao, Inland Environment
+Industrial Tree Plantation
+Rubber, Inland Environment
+Sago
+
+INLAND AQUATIC RESOURCES
+Aquafeeds
+Inland Environ (Knifefish)
+Milkfish
+Mudcrabs
+Mussel
+Shrimps
+Tilapia
+
+MARINE RESOURCES
+Abalone
+Blue Swimming Crabs
+Corals
+Cross-cutting
+Fishing Maps
+Erosion
+Oyster/Shellfish
+Pigeonpea
+Sardines
+Sea cucumber
+Seaweeds
+
+
+fontawesome
+flat icon
+ 

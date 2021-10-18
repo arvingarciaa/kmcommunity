@@ -1,0 +1,13 @@
+.profile.dropdown.open > .dropdown-menu{
+  left:-180px;
+}
+
+.dropdown.open.notification-bell > .dropdown-menu{
+  left:-250px;
+  min-width:220px;
+}
+
+.dropdown.open > .dropdown-menu{
+  left:-180px;
+  min-width:220px;
+}

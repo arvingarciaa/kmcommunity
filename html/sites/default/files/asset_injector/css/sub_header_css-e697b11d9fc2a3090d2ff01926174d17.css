@@ -1,0 +1,38 @@
+.region--sub-header{
+  background-color: #2478af;
+  position: fixed;
+  top: 79px;
+  width: 100%;
+  z-index: 10;
+}
+
+.navbar-nav__icon {
+    fill: rgba(255, 255, 255, 0.5);
+}
+.field--name-field-introduction-text{
+  display:none;
+}
+
+
+li>a:hover .navbar-nav__icon {
+    fill: rgba(255, 255, 255, 0.9);
+}
+
+.navbar-nav__icon{
+  height:28px;
+  width:28px;
+}
+
+.region--sub-header{
+  height:52px;
+}
+
+.dropdown-toggle > div > img{
+  width:28px;
+  height:28px;
+}
+
+#block-socialblue-accountheaderblock{
+  float:right;
+  margin-right:1rem;
+}
